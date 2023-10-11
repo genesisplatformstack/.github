@@ -1,0 +1,1 @@
+`GenesisPlatformStack` focuses on providing reliable tools and methodologies for deploying Bitcoin applications on scalable platforms, especially Kubernetes. The primary aim is to collaborate on and offer tested solutions that make it easier for developers to run Bitcoin-related applications at scale.
